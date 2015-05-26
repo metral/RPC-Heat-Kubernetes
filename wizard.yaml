@@ -3,10 +3,10 @@ release: 0.4.3
 logo: assets/logo.png
 
 short_desc: >
-                Corekube delivers a deployable configuration of Kubernetes using CoreOS, Etcd, Fleet, and Flannel via OpenStack Orchestration (heat), available in any Rackspace OpenStack Private Cloud.
+                RPC-Heat-Kubernetes delivers a deployable configuration of Kubernetes using CoreOS, Etcd, Fleet, and Flannel via OpenStack Orchestration (heat), available in any Rackspace OpenStack Private Cloud.
 
 long_desc: >
-                Corekube is a Heat template for OpenStack that creates the necessary infrastructure as well as configures it accordingly to deploy and host a Kubernetes cluster.
+                RPC-Heat-Kubernetes (a.k.a Corekube) is a Heat template for OpenStack that creates the necessary infrastructure as well as configures it accordingly to deploy and host a Kubernetes cluster.
 
                 The main pillars of Corekube's mission can be categorized into the following:
 
